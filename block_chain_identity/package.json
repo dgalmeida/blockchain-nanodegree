@@ -1,0 +1,13 @@
+{
+  "name": "bc-nanodegree",
+  "version": "1.0.0",
+  "description": "hash code practice",
+  "main": "hashing.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Diego Almeida",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
